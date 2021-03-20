@@ -1,0 +1,19 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "i2c-bus": "^5.2.1",
+    "moment": "^2.29.1",
+    "oled-font-5x7": "^1.0.3",
+    "oled-i2c-bus": "^1.0.12",
+    "systeminformation": "^4.33.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
